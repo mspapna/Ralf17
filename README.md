@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ralf17
+- 👋 Hi, I’m @mspapna
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Chess, specially the openings
 - 💞️ I’m looking to collaborate on Java written projects
